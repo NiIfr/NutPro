@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\work\parscodeser\c plus pro\nutpro\nutpro\source.cpp(121): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\work\parscodeser\c plus pro\nutpro\nutpro\source.cpp(287): warning C4101: 'ckrnd': unreferenced local variable
+d:\work\parscodeser\c plus pro\nutpro\nutpro\source.cpp(550): warning C4101: 'rnd': unreferenced local variable
+  NutPro.vcxproj -> D:\Work\Parscodeser\C plus Pro\NutPro\Debug\NutPro.exe
+  NutPro.vcxproj -> D:\Work\Parscodeser\C plus Pro\NutPro\Debug\NutPro.pdb (Full PDB)
